@@ -1,0 +1,6 @@
+C:\Res\DailyPurpose\DailyPurpose\bin\Debug\DailyPurpose.exe.config
+C:\Res\DailyPurpose\DailyPurpose\bin\Debug\DailyPurpose.exe
+C:\Res\DailyPurpose\DailyPurpose\bin\Debug\DailyPurpose.pdb
+C:\Res\DailyPurpose\DailyPurpose\obj\Debug\DailyPurpose.csprojAssemblyReference.cache
+C:\Res\DailyPurpose\DailyPurpose\obj\Debug\DailyPurpose.exe
+C:\Res\DailyPurpose\DailyPurpose\obj\Debug\DailyPurpose.pdb
