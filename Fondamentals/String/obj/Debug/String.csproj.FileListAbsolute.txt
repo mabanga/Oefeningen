@@ -1,0 +1,6 @@
+C:\Res\Studies\CSharp\Essais\Fondamentals\String\bin\Debug\String.exe.config
+C:\Res\Studies\CSharp\Essais\Fondamentals\String\bin\Debug\String.exe
+C:\Res\Studies\CSharp\Essais\Fondamentals\String\bin\Debug\String.pdb
+C:\Res\Studies\CSharp\Essais\Fondamentals\String\obj\Debug\String.csprojAssemblyReference.cache
+C:\Res\Studies\CSharp\Essais\Fondamentals\String\obj\Debug\String.exe
+C:\Res\Studies\CSharp\Essais\Fondamentals\String\obj\Debug\String.pdb
